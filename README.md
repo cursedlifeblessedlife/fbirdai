@@ -23,7 +23,7 @@
     pip install neat-python
     ```
 
-3. **Run the Bot**:
+3. **Run**:
 
     ```bash
     python main.py
